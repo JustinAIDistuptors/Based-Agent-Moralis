@@ -1,4 +1,1 @@
-discord.py>=2.0.0
-requests>=2.25.1
-python-dotenv>=0.19.0
-websockets>=10.0
+discord.py>=2.0.0\nrequests>=2.25.1\npython-dotenv>=0.19.0\nwebsockets>=10.0\nsolana>=0.30.0\nanchor-client>=0.2.0\nsolders>=0.18.0\npython-spl>=0.3.0\nasyncio>=3.4.3\naiohttp>=3.8.0
